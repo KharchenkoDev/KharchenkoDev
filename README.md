@@ -14,9 +14,9 @@
 
 * **Backend:** PHP, Symfony, Composer
 * **Databases:** MySQL, PostgreSQL, Doctrine ORM
-* **Frontend:** HTML, CSS, JavaScript (React в процессе)
-* **CMS:** WordPress (темы, плагины)
+* **Frontend:** HTML, CSS, JavaScript
 * **Tools:** Git, Docker, Postman, Linux
+* **Microservices:** REST, OpenAPI, RabbitMQ (в процессе)
 
 ---
 
