@@ -49,6 +49,6 @@
 
 ## 📫 Контакты
 
-* Telegram: [https://t.me/it_dude_ru](https://t.me/it_dude_ru)
+* Telegram: [https://t.me/KharchenkoDev](https://t.me/KharchenkoDev)
 
 Если хотите пообщаться, задать вопрос или предложить проект — буду рад!
