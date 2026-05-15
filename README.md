@@ -26,8 +26,6 @@
 * [**REST API для проверки ИНН через сервис DaData**](https://github.com/KharchenkoDev/dispa-test) (Symfony, MySQL).
 * [**Symfony REST-приложение**](https://github.com/KharchenkoDev/systemeio-backend-test-task) для расчета цены продукта и проведения оплаты.
 
-Проекты пока в разработке — буду публиковать по ходу выполнения.
-
 ---
 
 ## 🎯 Чем занимаюсь сейчас
