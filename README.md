@@ -24,7 +24,7 @@
 
 * [**CoinGecko Price Tracker**](https://github.com/KharchenkoDev/amopoint-test) + скрипт для интерактивной формы + система статистики (Laravel, JS).
 * [**REST API для проверки ИНН через сервис DaData**](https://github.com/KharchenkoDev/dispa-test) (Symfony, MySQL).
-* [**Symfony REST-приложение**]([https://github.com/KharchenkoDev/amopoint-test](https://github.com/KharchenkoDev/systemeio-backend-test-task)) для расчета цены продукта и проведения оплаты.
+* [**Symfony REST-приложение**](https://github.com/KharchenkoDev/systemeio-backend-test-task) для расчета цены продукта и проведения оплаты.
 
 Проекты пока в разработке — буду публиковать по ходу выполнения.
 
